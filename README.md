@@ -42,7 +42,7 @@ Compare XML files and objects
 	- [Rationale](#rationale)
 
 ## Documentation
-See the [Docs](/DOCS/README.md) for more information.
+See the [Docs](/DOCS/) for more information.
 
 
 ## Install With PIP
